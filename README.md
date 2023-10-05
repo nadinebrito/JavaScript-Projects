@@ -3,3 +3,4 @@ Nesse repositório se encontram meus projetos em JavaScript que fiz para fins de
 
 * Projetos
   - Gerenciador de Tarefas (Blockchain, Web3JS, JavaScript, HTML e CSS.)
+  - Sorteio de cores (HTML, CSS e JavaScript)
