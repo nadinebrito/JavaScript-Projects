@@ -1,0 +1,97 @@
+body {
+    margin: 20px;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Love Ya Like A Sister', cursive;
+    font-size: 24px; 
+    text-align: center;
+}
+h2 {
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"] {
+    padding: 5px;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 10px;
+    font-family: 'Pacifico', cursive;
+}
+
+button {
+    font-family: 'Cedarville Cursive', cursive;
+    padding: 5px 10px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+:placeholder-shown{
+    font-family: 'Cedarville Cursive', cursive;
+
+}
+
+.container {
+    display: flex; /* Torna os contêineres filhos flexíveis */
+}
+
+.left-container {
+    flex: 1; /* O lado esquerdo ocupa 50% do espaço disponível */
+    background-color: #84b6f4;
+    padding: 20px;
+}
+
+.right-container {
+    flex: 1; /* O lado direito ocupa 50% do espaço disponível */
+    background-color: #fdcae1;
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #ffe180;
+    color: black;
+    display: block;
+
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    
+    padding: 10px; /* Espaçamento interno do footer */
+
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+.custom-card {
+    padding: 20px; /* Ajuste o espaçamento interno conforme necessário */
+}
+
+.form-group {
+    margin-bottom: 10px; /* Ajuste o espaçamento entre os campos de formulário */
+}
+
+.btn {
+    margin-top: 10px; /* Ajuste o espaçamento superior do botão */
+}
