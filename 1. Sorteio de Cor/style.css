@@ -1,0 +1,15 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-family: 'Pixelify Sans', cursive;
+}
